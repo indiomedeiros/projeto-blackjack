@@ -10,4 +10,6 @@
  * 
  * 
  */
-
+    const carta = comprarCarta()
+    console.log(carta.texto)
+    console.log(carta.valor)
